@@ -1,0 +1,11 @@
+import os
+import json
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+openai
+seaborn
+matplotlib
